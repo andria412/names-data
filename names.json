@@ -1,10 +1,21 @@
-{
-  "names": [
-    "ANDRIA",
-    "REOMAN",
-    "RPLAN",
-    "ALPROA",
-    "DSAD",
+[
+  {
+  "names":"ANDRIA",
+  }
+    {
+  "names": "REOMAN",
+    }
+      {
+    "names": "RPLAN",
+      }
+  {
+   "names":"ALPROA",
+  }
+  {
+   "names":"DSAD",
+  }
+  {
     "FAFA"
-  ]
-}
+  }
+  
+]
